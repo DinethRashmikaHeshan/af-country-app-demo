@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1746161475984" clover="3.2.0">
+  <project timestamp="1746161475984" name="All files">
+    <metrics statements="524" coveredstatements="351" conditionals="189" coveredconditionals="88" methods="101" coveredmethods="52" elements="814" coveredelements="491" complexity="0" loc="524" ncloc="524" packages="8" files="23" classes="23"/>
+    <package name="__tests__">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="test-utils.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\__tests__\test-utils.tsx">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="7" type="stmt"/>
+        <line num="4" count="7" type="stmt"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="8" count="20" type="stmt"/>
+        <line num="16" count="20" type="stmt"/>
+        <line num="23" count="20" type="stmt"/>
+        <line num="26" count="7" type="stmt"/>
+        <line num="59" count="7" type="stmt"/>
+        <line num="136" count="7" type="stmt"/>
+        <line num="142" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="app.countries">
+      <metrics statements="79" coveredstatements="50" conditionals="16" coveredconditionals="4" methods="19" coveredmethods="10"/>
+      <file name="page.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\app\countries\page.tsx">
+        <metrics statements="79" coveredstatements="50" conditionals="16" coveredconditionals="4" methods="19" coveredmethods="10"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="35" count="11" type="stmt"/>
+        <line num="36" count="11" type="stmt"/>
+        <line num="37" count="11" type="stmt"/>
+        <line num="38" count="11" type="stmt"/>
+        <line num="39" count="11" type="stmt"/>
+        <line num="40" count="11" type="stmt"/>
+        <line num="41" count="11" type="stmt"/>
+        <line num="42" count="11" type="stmt"/>
+        <line num="43" count="11" type="stmt"/>
+        <line num="46" count="11" type="stmt"/>
+        <line num="47" count="3" type="stmt"/>
+        <line num="48" count="3" type="stmt"/>
+        <line num="49" count="3" type="cond" truecount="0" falsecount="1"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="55" count="3" type="stmt"/>
+        <line num="59" count="11" type="stmt"/>
+        <line num="60" count="3" type="stmt"/>
+        <line num="61" count="3" type="stmt"/>
+        <line num="62" count="3" type="stmt"/>
+        <line num="63" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="65" count="2" type="stmt"/>
+        <line num="66" count="2" type="stmt"/>
+        <line num="67" count="2" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="76" count="3" type="stmt"/>
+        <line num="80" count="3" type="stmt"/>
+        <line num="84" count="11" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="88" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="90" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="99" count="11" type="stmt"/>
+        <line num="100" count="5" type="stmt"/>
+        <line num="102" count="5" type="cond" truecount="0" falsecount="1"/>
+        <line num="103" count="0" type="stmt"/>
+        <line num="106" count="5" type="cond" truecount="1" falsecount="2"/>
+        <line num="107" count="0" type="stmt"/>
+        <line num="110" count="5" type="stmt"/>
+        <line num="114" count="11" type="stmt"/>
+        <line num="115" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="116" count="0" type="stmt"/>
+        <line num="121" count="0" type="stmt"/>
+        <line num="122" count="0" type="stmt"/>
+        <line num="125" count="0" type="stmt"/>
+        <line num="126" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="128" count="0" type="stmt"/>
+        <line num="134" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="136" count="0" type="stmt"/>
+        <line num="137" count="0" type="stmt"/>
+        <line num="143" count="0" type="stmt"/>
+        <line num="145" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="147" count="0" type="stmt"/>
+        <line num="148" count="0" type="stmt"/>
+        <line num="154" count="0" type="stmt"/>
+        <line num="155" count="0" type="stmt"/>
+        <line num="164" count="11" type="stmt"/>
+        <line num="166" count="11" type="cond" truecount="1" falsecount="0"/>
+        <line num="178" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="190" count="0" type="stmt"/>
+        <line num="201" count="8" type="stmt"/>
+        <line num="213" count="8" type="stmt"/>
+        <line num="217" count="0" type="stmt"/>
+        <line num="218" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="app.countries.[code]">
+      <metrics statements="78" coveredstatements="52" conditionals="76" coveredconditionals="48" methods="17" coveredmethods="12"/>
+      <file name="page.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\app\countries\[code]\page.tsx">
+        <metrics statements="78" coveredstatements="52" conditionals="76" coveredconditionals="48" methods="17" coveredmethods="12"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="64" count="4" type="stmt"/>
+        <line num="65" count="7" type="stmt"/>
+        <line num="66" count="7" type="stmt"/>
+        <line num="67" count="7" type="stmt"/>
+        <line num="68" count="7" type="stmt"/>
+        <line num="69" count="7" type="stmt"/>
+        <line num="70" count="7" type="stmt"/>
+        <line num="71" count="7" type="stmt"/>
+        <line num="74" count="7" type="stmt"/>
+        <line num="75" count="4" type="stmt"/>
+        <line num="76" count="4" type="stmt"/>
+        <line num="77" count="4" type="cond" truecount="0" falsecount="1"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="83" count="4" type="stmt"/>
+        <line num="87" count="7" type="stmt"/>
+        <line num="88" count="4" type="stmt"/>
+        <line num="89" count="4" type="stmt"/>
+        <line num="90" count="4" type="stmt"/>
+        <line num="93" count="3" type="cond" truecount="0" falsecount="1"/>
+        <line num="95" count="3" type="stmt"/>
+        <line num="96" count="3" type="stmt"/>
+        <line num="98" count="1" type="stmt"/>
+        <line num="99" count="1" type="stmt"/>
+        <line num="105" count="4" type="stmt"/>
+        <line num="109" count="4" type="stmt"/>
+        <line num="113" count="7" type="stmt"/>
+        <line num="114" count="0" type="stmt"/>
+        <line num="115" count="0" type="stmt"/>
+        <line num="122" count="0" type="cond" truecount="0" falsecount="3"/>
+        <line num="124" count="0" type="stmt"/>
+        <line num="126" count="0" type="stmt"/>
+        <line num="131" count="7" type="stmt"/>
+        <line num="132" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="133" count="0" type="stmt"/>
+        <line num="138" count="0" type="stmt"/>
+        <line num="139" count="0" type="stmt"/>
+        <line num="142" count="0" type="stmt"/>
+        <line num="143" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="145" count="0" type="stmt"/>
+        <line num="147" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="149" count="0" type="stmt"/>
+        <line num="150" count="0" type="stmt"/>
+        <line num="156" count="0" type="stmt"/>
+        <line num="158" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="160" count="0" type="stmt"/>
+        <line num="161" count="0" type="stmt"/>
+        <line num="167" count="0" type="stmt"/>
+        <line num="168" count="0" type="stmt"/>
+        <line num="176" count="7" type="cond" truecount="1" falsecount="0"/>
+        <line num="180" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="186" count="0" type="stmt"/>
+        <line num="195" count="2" type="stmt"/>
+        <line num="196" count="2" type="stmt"/>
+        <line num="200" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="203" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="208" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="216" count="0" type="stmt"/>
+        <line num="364" count="2" type="stmt"/>
+        <line num="377" count="18" type="stmt"/>
+        <line num="391" count="2" type="stmt"/>
+        <line num="428" count="2" type="stmt"/>
+        <line num="451" count="2" type="stmt"/>
+        <line num="528" count="4" type="stmt"/>
+        <line num="532" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="app.favorites">
+      <metrics statements="54" coveredstatements="24" conditionals="11" coveredconditionals="2" methods="13" coveredmethods="3"/>
+      <file name="page.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\app\favorites\page.tsx">
+        <metrics statements="54" coveredstatements="24" conditionals="11" coveredconditionals="2" methods="13" coveredmethods="3"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="63" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="65" count="0" type="cond" truecount="0" falsecount="3"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="72" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="93" count="1" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="97" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="100" count="0" type="stmt"/>
+        <line num="102" count="0" type="stmt"/>
+        <line num="107" count="0" type="stmt"/>
+        <line num="108" count="0" type="stmt"/>
+        <line num="116" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="120" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="131" count="0" type="stmt"/>
+        <line num="141" count="0" type="stmt"/>
+        <line num="145" count="0" type="stmt"/>
+        <line num="146" count="0" type="stmt"/>
+        <line num="153" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="app.login">
+      <metrics statements="63" coveredstatements="33" conditionals="19" coveredconditionals="6" methods="10" coveredmethods="3"/>
+      <file name="page.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\app\login\page.tsx">
+        <metrics statements="63" coveredstatements="33" conditionals="19" coveredconditionals="6" methods="10" coveredmethods="3"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="28" count="3" type="stmt"/>
+        <line num="31" count="3" type="stmt"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="34" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="40" count="3" type="stmt"/>
+        <line num="43" count="3" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="57" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="61" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="67" count="3" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="78" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="83" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="88" count="3" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="100" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="104" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="109" count="3" type="cond" truecount="0" falsecount="1"/>
+        <line num="183" count="0" type="stmt"/>
+        <line num="193" count="0" type="stmt"/>
+        <line num="227" count="0" type="stmt"/>
+        <line num="237" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components">
+      <metrics statements="68" coveredstatements="48" conditionals="32" coveredconditionals="15" methods="17" coveredmethods="10"/>
+      <file name="country-card.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\country-card.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="12" coveredconditionals="9" methods="2" coveredmethods="2"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="31" count="12" type="stmt"/>
+        <line num="33" count="8" type="stmt"/>
+        <line num="34" count="8" type="stmt"/>
+      </file>
+      <file name="country-map.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\country-map.tsx">
+        <metrics statements="10" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="13" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+      </file>
+      <file name="loading-screen.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\loading-screen.tsx">
+        <metrics statements="11" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="3"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="11" count="12" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="12" type="stmt"/>
+        <line num="14" count="12" type="stmt"/>
+        <line num="15" count="9" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="22" count="9" type="stmt"/>
+      </file>
+      <file name="loading-spinner.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\loading-spinner.tsx">
+        <metrics statements="3" coveredstatements="2" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="9" count="0" type="cond" truecount="0" falsecount="1"/>
+      </file>
+      <file name="site-header.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\site-header.tsx">
+        <metrics statements="34" coveredstatements="25" conditionals="13" coveredconditionals="5" methods="6" coveredmethods="4"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="21" count="14" type="stmt"/>
+        <line num="22" count="14" type="stmt"/>
+        <line num="23" count="14" type="stmt"/>
+        <line num="24" count="14" type="stmt"/>
+        <line num="25" count="14" type="stmt"/>
+        <line num="26" count="14" type="stmt"/>
+        <line num="28" count="14" type="stmt"/>
+        <line num="29" count="12" type="stmt"/>
+        <line num="30" count="12" type="stmt"/>
+        <line num="31" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="34" count="12" type="stmt"/>
+        <line num="37" count="12" type="stmt"/>
+        <line num="38" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="41" count="12" type="stmt"/>
+        <line num="42" count="12" type="stmt"/>
+        <line num="46" count="14" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+      </file>
+      <file name="theme-provider.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\theme-provider.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="7" type="stmt"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="9" count="20" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.ui">
+      <metrics statements="168" coveredstatements="130" conditionals="35" coveredconditionals="13" methods="22" coveredmethods="11"/>
+      <file name="alert.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\ui\alert.tsx">
+        <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+      </file>
+      <file name="badge.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\ui\badge.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="36" count="28" type="stmt"/>
+      </file>
+      <file name="button.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\ui\button.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="3" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="6" type="stmt"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="42" count="6" type="stmt"/>
+        <line num="44" count="88" type="cond" truecount="1" falsecount="1"/>
+        <line num="54" count="6" type="stmt"/>
+        <line num="56" count="83" type="stmt"/>
+      </file>
+      <file name="card.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\ui\card.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="45" count="5" type="stmt"/>
+        <line num="57" count="5" type="stmt"/>
+        <line num="65" count="5" type="stmt"/>
+        <line num="77" count="5" type="stmt"/>
+        <line num="79" count="26" type="stmt"/>
+      </file>
+      <file name="dropdown-menu.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\ui\dropdown-menu.tsx">
+        <metrics statements="35" coveredstatements="25" conditionals="7" coveredconditionals="1" methods="1" coveredmethods="0"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="40" count="5" type="stmt"/>
+        <line num="56" count="5" type="stmt"/>
+        <line num="75" count="5" type="stmt"/>
+        <line num="93" count="5" type="stmt"/>
+        <line num="116" count="5" type="stmt"/>
+        <line num="139" count="5" type="stmt"/>
+        <line num="157" count="5" type="stmt"/>
+        <line num="169" count="5" type="stmt"/>
+        <line num="171" count="5" type="stmt"/>
+        <line num="182" count="5" type="stmt"/>
+        <line num="185" count="16" type="stmt"/>
+        <line num="186" count="16" type="stmt"/>
+        <line num="187" count="16" type="stmt"/>
+        <line num="188" count="36" type="stmt"/>
+        <line num="189" count="0" type="stmt"/>
+        <line num="190" count="0" type="stmt"/>
+        <line num="191" count="0" type="stmt"/>
+        <line num="192" count="4" type="stmt"/>
+        <line num="193" count="0" type="stmt"/>
+        <line num="194" count="0" type="stmt"/>
+        <line num="195" count="0" type="stmt"/>
+        <line num="196" count="0" type="stmt"/>
+        <line num="197" count="0" type="stmt"/>
+        <line num="198" count="0" type="stmt"/>
+        <line num="199" count="0" type="stmt"/>
+      </file>
+      <file name="input.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\ui\input.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="22" count="17" type="stmt"/>
+      </file>
+      <file name="label.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\ui\label.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="12" type="stmt"/>
+      </file>
+      <file name="select.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\ui\select.tsx">
+        <metrics statements="24" coveredstatements="19" conditionals="5" coveredconditionals="5" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+        <line num="100" count="1" type="stmt"/>
+        <line num="112" count="1" type="stmt"/>
+        <line num="135" count="1" type="stmt"/>
+        <line num="147" count="1" type="stmt"/>
+        <line num="150" count="5" type="stmt"/>
+        <line num="151" count="0" type="stmt"/>
+        <line num="152" count="5" type="stmt"/>
+        <line num="153" count="5" type="stmt"/>
+        <line num="154" count="5" type="stmt"/>
+        <line num="155" count="0" type="stmt"/>
+        <line num="156" count="13" type="stmt"/>
+        <line num="157" count="0" type="stmt"/>
+        <line num="158" count="0" type="stmt"/>
+        <line num="159" count="0" type="stmt"/>
+      </file>
+      <file name="separator.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\ui\separator.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="3" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="31" count="3" type="stmt"/>
+      </file>
+      <file name="tabs.tsx" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\ui\tabs.tsx">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="53" count="2" type="stmt"/>
+        <line num="55" count="12" type="stmt"/>
+      </file>
+      <file name="use-toast.ts" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\components\ui\use-toast.ts">
+        <metrics statements="53" coveredstatements="31" conditionals="16" coveredconditionals="2" methods="18" coveredmethods="8"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="59" count="5" type="stmt"/>
+        <line num="61" count="5" type="stmt"/>
+        <line num="62" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="77" count="5" type="stmt"/>
+        <line num="78" count="2" type="cond" truecount="1" falsecount="3"/>
+        <line num="80" count="2" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="89" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="98" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="101" count="0" type="stmt"/>
+        <line num="102" count="0" type="stmt"/>
+        <line num="106" count="0" type="stmt"/>
+        <line num="109" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="119" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="120" count="0" type="stmt"/>
+        <line num="125" count="0" type="stmt"/>
+        <line num="127" count="0" type="stmt"/>
+        <line num="132" count="5" type="stmt"/>
+        <line num="134" count="5" type="stmt"/>
+        <line num="137" count="2" type="stmt"/>
+        <line num="138" count="2" type="stmt"/>
+        <line num="139" count="2" type="stmt"/>
+        <line num="146" count="2" type="stmt"/>
+        <line num="148" count="2" type="stmt"/>
+        <line num="149" count="0" type="stmt"/>
+        <line num="153" count="2" type="stmt"/>
+        <line num="155" count="2" type="stmt"/>
+        <line num="162" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="167" count="2" type="stmt"/>
+        <line num="175" count="33" type="stmt"/>
+        <line num="177" count="33" type="stmt"/>
+        <line num="178" count="22" type="stmt"/>
+        <line num="179" count="22" type="stmt"/>
+        <line num="180" count="22" type="stmt"/>
+        <line num="181" count="22" type="cond" truecount="1" falsecount="0"/>
+        <line num="182" count="22" type="stmt"/>
+        <line num="187" count="33" type="stmt"/>
+        <line num="190" count="0" type="stmt"/>
+        <line num="194" count="33" type="stmt"/>
+      </file>
+    </package>
+    <package name="lib">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="utils.ts" path="C:\Users\dinet\WebstormProjects\af-2-DinethRashmikaHeshan\lib\utils.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="6" type="stmt"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="4" count="277" type="stmt"/>
+        <line num="5" count="277" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
